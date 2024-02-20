@@ -1,7 +1,7 @@
 # hookSettings-for-PocketBase
 A PocketBase Hook and JS Module to bring [config modules](https://pocketbase.io/docs/js-overview/#handlers-scope) for other JS Hooks to the WebUI
 
-![Collection Image](/images/collection.png)
+![Collection Image](/images/Collection.png)
 
 ## Usage
 
