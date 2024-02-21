@@ -38,7 +38,7 @@ onAfterBootstrap((e) => {
             type: "json",
             required: true,
             options: {
-                maxSize: 999
+                maxSize: 999999
             }
         }))
         form.submit()
